@@ -1,0 +1,20 @@
+{
+  "name": "roshambo-game",
+  "version": "1.0.0",
+  "description": "Play rashambo in js/console.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "bin": {
+    "roshambo": "./bin/index.js"
+  },
+  "author": "Colter, Richolson",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
